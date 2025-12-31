@@ -1,0 +1,4 @@
+﻿Alert name,Tags,Severity,Investigation state,Status,Category,Detection source,Product name,Impacted assets,First activity,Last activity,Policy name,Classification,Determination,Assigned to,Workspace,Cloud Scopes
+Multiple Failed Sign-ins Detected, ,High, ,New,Credential access,Scheduled detection,Microsoft Sentinel,-,2025-12-31T19:02:28.882Z,2025-12-31T19:17:28.882Z,Multiple Failed Sign-ins Detected,,Not Set,Unassigned,signinlogsworkspace,
+Multiple Failed Sign-ins Detected, ,High, ,New,Credential access,Scheduled detection,Microsoft Sentinel,-,2025-12-31T18:57:28.882Z,2025-12-31T19:12:28.882Z,Multiple Failed Sign-ins Detected,,Not Set,Unassigned,signinlogsworkspace,
+Multiple Failed Sign-ins Detected, ,High, ,New,Credential access,Scheduled detection,Microsoft Sentinel,-,2025-12-31T18:52:28.882Z,2025-12-31T19:07:28.882Z,Multiple Failed Sign-ins Detected,,Not Set,Unassigned,signinlogsworkspace,
